@@ -1,5 +1,3 @@
-matplotlib
-numpy
 opencv-python-headless
 python-socketio
 eventlet
